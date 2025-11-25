@@ -81,64 +81,70 @@
 <tr>
 <td align="center" width="33%">
 
+<img src="docs/ddeockip_박병찬_circle.png" width="300" style="border-radius:50%; object-fit:cover;" alt="박병찬">
+
 **🏆 팀장**
 **박병찬**
 `Backend & AI`
-
-프로젝트 총괄
-AI 개발 총괄
+- 프로젝트 총괄
+- AI 개발 총괄
 
 </td>
 <td align="center" width="33%">
+
+<img src="docs/ddeockip_이태호_circle.png" width="300" style="border-radius:50%; object-fit:cover;" alt="이태호">
 
 **⚙️ 백엔드 팀장**
 **이태호**
 `Backend`
-
-API 개발 총괄
-데이터베이스 설계
+- API 개발 총괄
+- 데이터베이스 설계
 
 </td>
 <td align="center" width="33%">
 
+<img src="docs/ddeockip_최경민_circle.png" width="300" style="border-radius:50%; object-fit:cover;" alt="최경민">
+
 **🔧 인프라 팀장**
 **최경민**
 `Backend & DevOps`
-
-인프라 구축 총괄
-CI/CD 파이프라인
+- 인프라 구축 총괄
+- CI/CD 파이프라인
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
+<img src="docs/ddeockip_김영규_circle.png" width="300" style="border-radius:50%; object-fit:cover;" alt="김영규">
+
 **🎨 프론트엔드 팀장**
 **김영규**
 `Frontend`
-
-프론트엔드 총괄
-UI/UX 설계
+- 프론트엔드 총괄
+- UI/UX 설계
 
 </td>
 <td align="center">
+
+<img src="docs/ddeockip_양재원_circle.png" width="300" style="border-radius:50%; object-fit:cover;" alt="양재원">
 
 **💻 프론트엔드**
 **양재원**
 `Frontend`
-
-React 컴포넌트 개발
-API 연동
+- React 컴포넌트 개발
+- API 연동
 
 </td>
 <td align="center">
 
+<img src="docs/ddeokip_고영우_circle.png" width="300" style="border-radius:50%; object-fit:cover;" alt="고영우">
+
 **🖼️ 프론트엔드**
 **고영우**
 `Frontend`
-
-반응형 웹 개발
-사용자 경험 최적화
+- 반응형 웹 개발
+- 사용자 경험 최적화
 
 </td>
 </tr>
